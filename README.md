@@ -1,4 +1,4 @@
-# hello-world
+# Data Structure
 the first repository
 
 Hello, buddy!
